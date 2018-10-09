@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MicRecordByFF</string>
+    <string name="record_text">Record</string>
+    <string name="stop_text">Stop</string>
+    <string name="plpay_text">Play</string>
+    <string name="in_text">Renew input</string>
+    <string name="out_text">Renew output</string>
+    <string name="select_in">Select Input</string>
+    <string name="select_out">Select Output</string>
+</resources>
